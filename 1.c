@@ -1,6 +1,6 @@
 /*
-- Fecha: 13 de agosto 2023
-- Hora: 12:30 am
+- Fecha: 14 de agosto 2023
+- Hora: 11:30 pm
 - Versión del código: 1.2
 - Presentado por: Adrián Fernando Gaitán Londoño Ing(c)
 - Presentado a: Carlos Alberto Ocampo Sepulveda
