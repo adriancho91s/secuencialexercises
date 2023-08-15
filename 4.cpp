@@ -4,10 +4,10 @@
 - Versión del código: 1.2
 - Presentado por: Adrián Fernando Gaitán Londoño Ing(c)
 - Presentado a: Carlos Alberto Ocampo Sepulveda
-- Lenguaje: C
-- Version del lenguaje: C Standard Version: C1809
+- Lenguaje: C++
+- Version del lenguaje: C++: 4.2.1 
+- Versión del compilador: Apple clang version 14.0.0 (clang-1400.0.29.202)
 - Universidad Tecnológica de Pereira
-- Programa de Ingeniería de Sistemas y Computación
 - EL programa como valores de entrada 3 números tipo float (A, B, C) 
 - Calcula el cuadrado de la suma, el producto, el cubo del producto y 
 - la diferencia entre el cuadrado de la suma y el cubo del producto.

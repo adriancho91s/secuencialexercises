@@ -4,10 +4,10 @@
 - Versión del código: 1.2
 - Presentado por: Adrián Fernando Gaitán Londoño Ing(c)
 - Presentado a: Carlos Alberto Ocampo Sepulveda
-- Lenguaje: C
-- Version del lenguaje: C Standard Version: C1809
+- Lenguaje: C++
+- Version del lenguaje: C++: 4.2.1 
+- Versión del compilador: Apple clang version 14.0.0 (clang-1400.0.29.202)
 - Universidad Tecnológica de Pereira
-- Programa de Ingeniería de Sistemas y Computación
 - El programa calcula el total de un articulo con IVA
 - Se conoce:
     - referencia 
