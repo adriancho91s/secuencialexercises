@@ -12,6 +12,8 @@
 - Este programa convierte de moneda Euro a Peso Colombiano y dolar, según el valor actual
 - (14, Aug 2023) 1 Euro = 4.414,36 pesos colombianos
 - (14, Aug 2023) 1 Euro = 1,09 dolares
+- Entrada: Cantidad de euros
+- Salida: Cantidad de pesos colombianos y dolares
 */
 
 //Librerías

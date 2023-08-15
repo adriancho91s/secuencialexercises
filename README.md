@@ -39,5 +39,6 @@ Welcome to the repository for C++ programming exercises. This collection of exer
 9. **Currency Conversion**
    - **Description:** Convert a given value from Euros to Colombian Pesos and US Dollars.
 
-10. **Custom Exercise**
-    - **Description:** Create a unique programming exercise that focuses on a specific concept or challenge in C++ programming.
+10. **Evaluating Another Mathematical Expression**
+    - Create a C program to evaluate a mathematical expression using the given value of "x" and display the result.
+   $$ \frac{\frac{\frac{\frac{\frac{\frac{x}{6}+\frac{45}{x}}{x-\frac{-8}{2}}}{12}}{\sqrt{x}}}{5}+x^4}{\sqrt{x}} $$
